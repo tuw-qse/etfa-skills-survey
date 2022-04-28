@@ -6,3 +6,5 @@ This repository contains additional material of the survey on capabilities and s
 
 We found 247 papers with a notion on capabilities and skills and identified and analyzed 34 relevant papers which met this survey's inclusion criteria.
 The 34 paper can be found in Bibtex format in the file [analyzed-papers.bib](/analyzed-publications.bib).
+
+![Sankey diagram papers found and analyzed](/graphics/Sankey_PapersFoundReadAnalyzed.svg)
