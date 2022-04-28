@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0,0,954,360"
+   width="954"
+   height="360"
+   style="background: rgb(255, 255, 255) none repeat scroll 0% 0%; width: 100%; height: auto;"
+   version="1.1"
+   id="svg118"
+   sodipodi:docname="flow-o-matic-green.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs122">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8213">
+      <stop
+         style="stop-color:#eaeaea;stop-opacity:1"
+         offset="0"
+         id="stop8209" />
+      <stop
+         style="stop-color:#66b3ff;stop-opacity:1"
+         offset="1"
+         id="stop8211" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4729">
+      <stop
+         style="stop-color:#66ffb2;stop-opacity:1"
+         offset="0"
+         id="stop4725" />
+      <stop
+         style="stop-color:#eaeaea;stop-opacity:1"
+         offset="1"
+         id="stop4727" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4381">
+      <stop
+         style="stop-color:#33cc66;stop-opacity:1;"
+         offset="0"
+         id="stop4377" />
+      <stop
+         style="stop-color:#33cc66;stop-opacity:0;"
+         offset="1"
+         id="stop4379" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4381"
+       id="linearGradient4383"
+       x1="939.5"
+       y1="332.28744"
+       x2="953.5"
+       y2="332.28744"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4729"
+       id="linearGradient5018"
+       x1="641"
+       y1="305.0195"
+       x2="939"
+       y2="286.14154"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8213"
+       id="linearGradient8215"
+       x1="328"
+       y1="294.23077"
+       x2="626"
+       y2="303.68347"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview120"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.0480292"
+     inkscape:cx="479.4714"
+     inkscape:cy="291.02244"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg118" />
+  <rect
+     x="1"
+     y="8.6817207"
+     height="330"
+     width="13"
+     fill="#b9b9b9"
+     id="rect4">
+    <title
+       id="title2">Found 
+247</title>
+  </rect>
+  <rect
+     x="314"
+     y="5"
+     height="253.84616"
+     width="13"
+     fill="#c4c4c4"
+     id="rect8">
+    <title
+       id="title6">Unrelated 
+190</title>
+  </rect>
+  <rect
+     x="314"
+     y="268.84616"
+     height="28.056681"
+     width="13"
+     fill="#b9b9b9"
+     id="rect12">
+    <title
+       id="title10">Unclear 
+21</title>
+  </rect>
+  <rect
+     x="314"
+     y="306.90283"
+     height="48.097164"
+     width="13"
+     fill="#5596d5"
+     id="rect16"
+     style="fill:#5c9ad6;fill-opacity:1">
+    <title
+       id="title14">Related 
+36</title>
+  </rect>
+  <rect
+     x="940"
+     y="5.5747347"
+     height="284.57489"
+     width="13"
+     fill="#b9b9b9"
+     id="rect20">
+    <title
+       id="title18">OutOfScope 
+213</title>
+  </rect>
+  <rect
+     x="627"
+     y="301.01138"
+     height="53.441296"
+     width="13"
+     fill="#b9b9b9"
+     id="rect24"
+     style="fill:#5c99d6;fill-opacity:1">
+    <title
+       id="title22">Read 
+40</title>
+  </rect>
+  <rect
+     x="940"
+     y="309.57489"
+     height="45.425102"
+     width="13"
+     fill="#d58a00"
+     id="rect28"
+     style="fill:#5cd699;fill-opacity:1;stroke:none;stroke-opacity:1">
+    <title
+       id="title26"
+       style="stroke:url(#linearGradient4383)">Analyzed 
+34</title>
+  </rect>
+  <path
+     d="m 15,135.6048 c 149,0 149,-3.68172 298,-3.68172"
+     stroke-width="253.846"
+     id="path32"
+     style="mix-blend-mode:multiply;fill:none;stroke:#dddddd" />
+  <path
+     d="m 15,276.55621 c 149,0 149,6.31828 298,6.31828"
+     stroke-width="28.0567"
+     id="path38"
+     style="mix-blend-mode:multiply;fill:none;stroke:#dddddd" />
+  <path
+     d="m 15,314.63314 c 149,0 149,16.31828 298,16.31828"
+     stroke-width="48.0972"
+     id="path44"
+     style="mix-blend-mode:multiply;fill:none;stroke:#66b3ff" />
+  <path
+     d="m 328,131.92308 c 305.5,0 305.5,0.57473 611,0.57473"
+     stroke-width="253.846"
+     id="path50"
+     style="mix-blend-mode:multiply;fill:none;stroke:#eaeaea" />
+  <path
+     d="m 328,330.95142 c 149,0 149,-0.54731 298,-0.54731"
+     stroke-width="48.0972"
+     id="path56"
+     style="mix-blend-mode:multiply;fill:none;stroke:#66b3ff" />
+  <path
+     d="m 328,280.20243 c 305.5,0 305.5,-9.42527 611,-9.42527"
+     stroke-width="22.7126"
+     id="path62"
+     style="mix-blend-mode:multiply;fill:none;stroke:#eaeaea" />
+  <path
+     d="m 328,294.23077 c 149,0 149,9.45269 298,9.45269"
+     stroke-width="5.34413"
+     id="path68"
+     style="mix-blend-mode:multiply;fill:none;stroke:url(#linearGradient8215)" />
+  <path
+     d="m 641,331.74014 c 149,0 149,0.54731 298,0.54731"
+     stroke-width="45.4251"
+     id="path74"
+     style="mix-blend-mode:multiply;fill:none;stroke:#66ffb2;fill-opacity:1;stroke-opacity:1;stroke-width:44.325;stroke-miterlimit:4;stroke-dasharray:none" />
+  <path
+     d="m 641,305.01949 c 149,0 149,-18.87795 298,-18.87795"
+     stroke-width="8.01619"
+     id="path80"
+     style="mix-blend-mode:normal;fill:none;fill-opacity:1;stroke:url(#linearGradient5018);stroke-opacity:1" />
+  <text
+     x="21"
+     y="173.68172"
+     dy="4.1999998"
+     text-anchor="start"
+     id="text90"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:normal;font-family:sans-serif">Found <tspan
+   fill-opacity="0.7"
+   id="tspan88">247</tspan></text>
+  <text
+     x="334"
+     y="131.92308"
+     dy="4.1999998"
+     text-anchor="start"
+     id="text94"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:normal;font-family:sans-serif">Unrelated <tspan
+   fill-opacity="0.7"
+   id="tspan92">190</tspan></text>
+  <text
+     x="334"
+     y="282.87448"
+     dy="4.1999998"
+     text-anchor="start"
+     id="text98"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:normal;font-family:sans-serif">Unclear <tspan
+   fill-opacity="0.7"
+   id="tspan96">21</tspan></text>
+  <text
+     x="334"
+     y="330.95142"
+     dy="4.1999998"
+     text-anchor="start"
+     id="text102"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:normal;font-family:sans-serif">Related <tspan
+   fill-opacity="0.7"
+   id="tspan100">36</tspan></text>
+  <text
+     x="933"
+     y="147.86218"
+     dy="4.1999998"
+     text-anchor="end"
+     id="text106"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:normal;font-family:sans-serif">OutOfScope <tspan
+   fill-opacity="0.7"
+   id="tspan104">213</tspan></text>
+  <text
+     x="620"
+     y="327.73206"
+     dy="4.1999998"
+     text-anchor="end"
+     id="text110"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:normal;font-family:sans-serif">Read <tspan
+   fill-opacity="0.7"
+   id="tspan108">40</tspan></text>
+  <text
+     x="933"
+     y="332.28745"
+     dy="4.1999998"
+     text-anchor="end"
+     id="text114"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:normal;font-family:sans-serif">Analyzed <tspan
+   fill-opacity="0.7"
+   id="tspan112">34</tspan></text>
+</svg>
